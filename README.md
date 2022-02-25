@@ -1,7 +1,6 @@
 ## Hi, Lucas Viana
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgviana/)](https://www.linkedin.com/in/lucasgviana/)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/lucas_viana99)](https://www.hackerrank.com/lucas_viana99)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-267ACA?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:lucas_viana99@outlook.com)](mailto:lucas_viana99@outlook.com)
 
   <div style="display: inline_block"><br>
