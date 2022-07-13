@@ -14,6 +14,7 @@ My name is Lucas Viana from Brazil (🇧🇷). I've been working as .Net Develop
   <img align="center" alt="LV-CSharp" height="23" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="LV-Git" height="23" width="26" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="LV-Js" height="23" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="23" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
   
 
