@@ -4,7 +4,7 @@
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-267ACA?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:lucas_viana99@outlook.com)](mailto:lucas_viana99@outlook.com)
 
 
-  -   Programming: C#, C/C++, JavaScript, TypeScript
+  -   Programming: C#, C/C++, JavaScript and TypeScript
   -   Database: SQL Server, MySQL and SQLite
   -   Infra: Azure and Azure Devops
   -   Agile Pratices: Scrum
