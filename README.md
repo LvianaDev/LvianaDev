@@ -4,7 +4,7 @@ My name is Lucas Viana from Brazil (🇧🇷). I've been working as .Net Develop
 
     -   Programming: C#, C/C++, JavaScript and TypeScript
     -   Database: SQL Server, MySQL and SQLite
-    -   Infra: Git, Jenkins, Azure and Azure Devops
+    -   Infra: Git, Jenkins, Azure and Azure DevOps
     -   Agile Pratices: Scrum
       
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgviana/)](https://www.linkedin.com/in/lucasgviana/)
