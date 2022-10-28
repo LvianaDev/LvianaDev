@@ -2,7 +2,7 @@
 
 My name is Lucas Viana from Brazil (🇧🇷). I've been working as .Net Developer since 2020.
 
-    -   Programming: C#, C/C++, JavaScript and TypeScript
+    -   Programming: C#, .Net, Vb.Net, C++, JavaScript and TypeScript
     -   Database: SQL Server, MySQL and SQLite
     -   Infra: Git, Jenkins, Azure and Azure DevOps
     -   Agile Pratices: Scrum
