@@ -3,7 +3,7 @@
 My name is Lucas Viana from Brazil (🇧🇷). I've been working as .Net Developer since 2020.
 
     -   Programming: C#, .Net, Vb.Net, C++, JavaScript and TypeScript
-    -   Database: SQL Server, MySQL and SQLite
+    -   Database: SQL Server, PL/SQL (Oracle), MySQL and SQLite
     -   Infra: Git, GitLab, Jenkins (CI/CD), AWS, Azure and Azure DevOps
     -   Agile Pratices: Scrum
       
